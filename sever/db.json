@@ -1,0 +1,193 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "minh",
+      "email": "minh@gmail.com",
+      "role": "admin",
+      "Imguser": "anh1.jpg",
+      "gioitinh": "nam",
+      "password": "Minh1234"
+    },
+    {
+      "id": "ddb2",
+      "username": "minh1",
+      "email": "minh1@gmail.com",
+      "password": "Minh1234",
+      "repassword": "Minh1234"
+    },
+    {
+      "id": "5e52",
+      "username": "minh3",
+      "email": "minh3@gmail.com",
+      "password": "Minh1234",
+      "role": "user"
+    },
+    {
+      "id": "419b",
+      "username": "minh4",
+      "email": "minh4@gmail.com",
+      "password": "$2a$10$JZf73VCPb8ktkquIe/KOYeWML0CZJLq5x4jSv9FSvLXHjkIy6Ingu",
+      "role": "user"
+    },
+    {
+      "id": "fd94",
+      "username": "m5",
+      "email": "minh5@gmail.com",
+      "password": "$2a$10$LGjJlOFRAerUoYKVuyU8tO0bIw4.hgq4WQ4hzAffSV8M7fuS1E57m",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "tenTour": "TOUR PHÚ QUỐC",
+      "danhMuc": "trongnuoc",
+      "hot": "hot",
+      "diaDiem": "Phú Quốc",
+      "img": "hon_thom_phu_quoc.jpg",
+      "giChuNgan": "Tour Phú Quốc cực kỳ hấp dẫn với những điểm đến nổi bật tại Phú Quốc. Trải nghiệm thú vị với giá cực rẻ, quý khách sẽ có 3 ngày 3 đêm tại đảo ngọc, lưu trú Khách sạn 3 sao sang trọng, thưởng thức buffet sáng cùng nhiều món ngon địa phương, khám phá các điểm đến nổi tiếng nhất.",
+      "giaTour": 3890000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "3 ngày 2 đêm",
+      "conTrong": "5 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    },
+    {
+      "id": "2",
+      "tenTour": "TOUR PHAN THIẾT - MŨI NÉ",
+      "danhMuc": "trongnuoc",
+      "hot": "hot",
+      "diaDiem": "Phan Thiết",
+      "img": "PHAN-THIET.jpg",
+      "giChuNgan": "Tour Phan Thiết - Mũi Né sẽ là dịp để bạn và những người thân yêu có thời gian ở bên nhau...",
+      "giaTour": 2390000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "2 ngày 1 đêm",
+      "conTrong": "7 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    },
+    {
+      "id": "3",
+      "tenTour": "TDU LỊCH NHA TRANG",
+      "danhMuc": "trongnuoc",
+      "hot": "hot",
+      "diaDiem": "Nha Trang",
+      "img": "nhatrang.jpg",
+      "giChuNgan": "Nổi tiếng với những cảnh quan thiên nhiên đẹp “mê hoặc” lòng người, hàng năm thành phố biển Nha Trang thu hút lượng lớn du khách...",
+      "giaTour": 3000000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "2 ngày 1 đêm",
+      "conTrong": "12 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    },
+    {
+      "id": "4",
+      "tenTour": "TOUR Đồng Tháp",
+      "danhMuc": "trongnuoc",
+      "hot": "hot",
+      "diaDiem": "Đồng tháp",
+      "img": "dongthap.jpg",
+      "giChuNgan": "Trong chương trình tour du lịch Đồng Tháp này, quý khách hãy cùng chúng tôi trãi nghiệm những địa điểm thăm quan nức tiếng và những điểm check in....",
+      "giaTour": 4590000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "1 ngày 1 đêm",
+      "conTrong": "21 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    },
+    {
+      "id": "5",
+      "tenTour": "TOUR ĐÀ LẠT (3 NGÀY 3 ĐÊM) GIÁ RẺ",
+      "danhMuc": "trongnuoc",
+      "hot": "hot",
+      "diaDiem": "Đà Lạt",
+      "img": "dalat.jpg",
+      "giChuNgan": "Bạn đang tìm tour Đà Lạt Tết Nguyên Đán? Bạn cần tour giá rẻ mà dịch vụ vẫn đảm bảo chất lượng, uy tín? Hành trình Đà Lạt...",
+      "giaTour": 1890000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "3 ngày 3 đêm",
+      "conTrong": "7 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    },
+    {
+      "id": "6",
+      "tenTour": "TOUR Du Lịch Hà Nội",
+      "danhMuc": "trongnuoc",
+      "hot": "khonghot",
+      "diaDiem": "hà Nội",
+      "img": "hanoi.jpg",
+      "giChuNgan": "Tham quan quần thể du lịch tâm linh chùa Tam Chúc - nơi được kì vọng sẽ trở thành quần thể du lịch tâm linh lớn nhất thế giới khi hoàn thành năm 2048.",
+      "giaTour": 12179000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "4 ngày 4 đêm",
+      "conTrong": "12 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    },
+    {
+      "id": "7",
+      "tenTour": "Du lịch Đài Loan mùa Hoa Anh Đào",
+      "danhMuc": "nuocngoai",
+      "hot": "hot",
+      "diaDiem": "Đài Loan",
+      "img": "dailoan.jpg",
+      "giChuNgan": "Du lịch Đài Loan mùa Hoa Anh Đào - Đài Bắc - Đài Trung - Nam Đầu - Cao Hùng từ Sài Gòn 2024. Du lịch Đài Loan mùa hoa Anh Đào khám phá địa danh này, bạn sẽ không khỏi bất ngờ....",
+      "giaTour": 13499000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "4 ngày 4 đêm",
+      "conTrong": "12 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    },
+    {
+      "id": "8",
+      "tenTour": "Du lịch Châu Âu - Tour Du lịch Pháp - Thụy Sĩ",
+      "danhMuc": "nuocngoai",
+      "hot": "hot",
+      "diaDiem": "Thụy Sĩ",
+      "img": "thuysi.jpg",
+      "giChuNgan": "Du lịch Châu Âu Lễ 30/4 - Tour Du lịch Pháp - Thụy Sĩ - Ý từ Sài Gòn 2024. Đắm mình vào nét lãng mạn, tinh tế của nước Pháp với thủ đô Paris hoa lệ và nổi tiếng như...",
+      "giaTour": 78990000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "4 ngày 4 đêm",
+      "conTrong": "12 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    },
+    {
+      "id": "9",
+      "tenTour": "Du lịch Indonesia mùa Xuân - Đảo Bali",
+      "danhMuc": "nuocngoai",
+      "hot": "hot",
+      "diaDiem": "Indonesia",
+      "img": "indo.jpg",
+      "giChuNgan": "Du lịch Đảo Bali - Đất nước vạn đảo - Indonesia sở hữu rất nhiều danh lam thắng cảnh đẹp tự nhiên và cả nhân tạo.Vì vậy những người đã từng lựa chọn tour đều dành tình cảm yêu mến cho quốc đảo này.",
+      "giaTour": 10380000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "4 ngày 4 đêm",
+      "conTrong": "12 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    },
+    {
+      "id": "10",
+      "tenTour": "Du lịch Hàn Quốc mùa Hoa Anh Đào - Seoul",
+      "danhMuc": "nuocngoai",
+      "hot": "hot",
+      "diaDiem": "Hàn Quốc",
+      "img": "hanquat.jpg",
+      "giChuNgan": "Với riêng xứ sở Kim Chi, thời gian và địa điểm để ngắm hoa Anh Đào đẹp nhất sẽ được chúng tôi bật mí ngay sau đây. Việc của bạn là lên lịch trình du lịch Hàn Quốc ngay thôi...",
+      "giaTour": 3890000,
+      "img2": "muine-2.jpg",
+      "img3": "muine-3.jpg",
+      "thoiGianTour": "4 ngày 4 đêm",
+      "conTrong": "12 tour (2người 1 tour)",
+      "diadiemThamQuan": "Tà Cú, Đồi Cát Bay, Bàu Trắng- Bàu Sen, Tháp PoShaNu, Lâu Đài Rượu Vang"
+    }
+  ]
+}
